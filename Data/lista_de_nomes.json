@@ -1,0 +1,36 @@
+{
+  "nomes": [
+    "John McClane", "Indiana Jones", "James Bond", "Jason Bourne", "Ethan Hunt", "Sarah Connor", "Ellen Ripley", "John Rambo", "Luke Hobbs", "Dom Toretto", "Nien Nunb",
+    "Katniss Everdeen", "Hannibal Lecter", "Jack Bauer", "Harry Callahan", "Lara Croft", "Martin Riggs", "Max Rockatansky", "Mad Max", "Frank Martin", "James Braddock",
+    "John Matrix", "John Wick", "Leon", "Tony Montana", "Marion Cobretti", "Jack Slater", "Detective John Kimble", "Axel Foley", "John McClane", "Dutch Schaefer",
+    "Beatrix Kiddo", "Snake Plissken", "The Terminator", "T-800", "T-1000", "Judge Dredd", "Dirty Harry", "Inspector Lee", "James Carter", "John Shaft", "Frank Dux", 
+    "Jason Voorhees", "Freddy Krueger", "Chucky", "Leprechaun", "Pinhead", "Predator", "Alien", "Xenomorph", "The Bride", "Luke Skywalker", "Princesa Leia", "Han Solo",
+    "Chewbacca", "Obi-Wan Kenobi", "Yoda", "Darth Vader", "Emperor Palpatine", "Boba Fett", "Jabba the Hutt", "Lando Calrissian", "C-3PO", "R2-D2", "Anakin Skywalker",
+    "Padmé Amidala", "Mace Windu", "Qui-Gon Jinn", "Count Dooku", "General Grievous", "Captain Phasma", "Kylo Ren", "Rey", "Finn", "Poe Dameron", "Rose Tico", "Jyn Erso",
+    "Cassian Andor", "K-2SO", "Galen Erso", "Orson Krennic", "Director Krennic", "Saw Gerrera", "Bodhi Rook", "Chirrut Îmwe", "Baze Malbus", "Galen Marek", "Starkiller",
+    "Shaak Ti", "Kit Fisto", "Plo Koon", "Ahsoka Tano", "Asajj Ventress", "Cad Bane", "Darth Maul", "Darth Sidious", "General Hux", "Supreme Leader Snoke", "Admiral Ackbar",
+    "Aino", "Aleksi", "Annikki", "Antti", "Eeli", "Eeva", "Eino", "Elina", "Emilia", "Erkki", "Hanna", "Harri", "Heikki", "Helena", "Henna", "Hilja", "Iida", "Ilmari", 
+    "Jaakko", "Jari", "Johanna", "Juha", "Jukka", "Jussi", "Kaisa", "Kalle", "Kari", "Katri", "Katja", "Kerttu", "Kimmo", "Klaus", "Laura", "Lauri", "Leena", "Maija", "Mikael",
+    "Mikko", "Niina", "Nina", "Olli", "Pekka", "Pentti", "Riikka", "Sami", "Sanna", "Seppo", "Simo", "Timo", "Tuomas", "Ville", "Galadriel", "Legolas", "Thranduil", "Arwen",
+    "Elrond", "Celeborn", "Glorfindel", "Lúthien", "Fëanor", "Finwë", "Gwindor", "Idril", "Ingwë", "Mithrellas", "Nessa", "Nimrodel", "Orodreth", "Celebrían", "Aredhel", "Amroth",
+    "Tilion", "Imin", "Tata", "Enel", "Tinfang", "Gimli", "Thorin", "Balin", "Dwalin", "Fili", "Kili", "Bifur", "Bofur", "Bombur", "Dori", "Nori", "Ori", "Glóin", "Dain", "Gróin",
+    "Thrain", "Thror", "Durin", "Farin", "Frár", "Grímr", "Kíli", "Mîm", "Náin", "Óin", "Jon Snow", "Daenerys Targaryen", "Tyrion Lannister", "Cersei Lannister", "Arya Stark",
+    "Sansa Stark", "Robb Stark", "Jaime Lannister", "Bran Stark", "Theon Greyjoy", "Joffrey Baratheon", "Stannis Baratheon", "Melisandre", "Davos Seaworth", "Brienne of Tarth",
+    "Samwell Tarly", "Gilly", "Tormund Giantsbane", "Sandor Clegane", "Jorah Mormont", "Vito Corleone", "Michael Corleone", "Sonny Corleone", "Fredo Corleone", "Tom Hagen",
+    "Kay Adams", "Clemenza", "Tessio", "Don Barzini", "Virgil Sollozzo", "Captain McCluskey", "Moe Greene", "Johnny Fontane", "Luca Brasi", "Carlo Rizzi", "Apollonia Vitelli"
+  ],
+  "sobrenomes": [
+    "Anderson", "Baker", "Carter", "Davis", "Edwards", "Foster", "Gonzalez", "Hall", "Irwin", "Jackson", "Keller", "Lopez", "Morgan", "Nelson",  "Owens", "Perez", 
+    "Quinn", "Reynolds", "Smith", "Taylor", "Underwood", "Valdez", "Walker", "Xavier", "Young", "Zimmerman", "Adams", "Brown", "Cooper", "Diaz", "Evans", "Ferguson", 
+    "Garcia", "Hernandez", "Ingram","Johnson", "Klein", "Lee", "Martinez", "Newton", "Olson", "Phillips", "Rodriguez", "Scott", "Thomas", "Upton", "Vargas", "White", 
+    "Yates", "Zhang", "Simpson", "Griffin", "Smith", "Belcher", "Flanders", "Marsh", "Broflovski", "Cartman", "McCormick", "Tucker", "Wong", "Venture", "Morgendorffer",
+    "Lane", "Mellencamp", "Fry", "Leela", "Zoidberg", "Cohen", "Archer", "Kane", "Sterling", "Krieger", "Mallory", "Pam", "Cheryl", "Lana", "Kane", "Isis", "Brock", "Samson",
+    "Gargantua", "Monstroso", "Phantom Limb", "White", "Squirrel", "Kimbrough", "Venturestein", "Impossible", "Shoreleave", "Molotov", "Bowie", "Treister", "Gathers", 
+    "Brimstone", "Red Mantle", "Dragoon", "Orpheus", "Kim", "Lee", "Andersson", "Johansson", "Karlsson", "Nilsson", "Eriksson", "Larsson", "Persson", "Gustafsson", "Svensson",
+    "Pettersson", "Jonsson", "Hansson", "Bengtsson", "Lindberg", "Bergström", "Lindqvist", "Lundberg", "Fredriksson", "Nordström", "Holm", "Engström", "Ahlgren", "Hedlund",
+    "Westerberg", "Lofgren", "Wallin", "Ekstrom", "Oberg", "Bjorklund", "Åberg", "Sandberg", "Soderberg", "Backman", "Blomqvist", "Eklund", "Kronqvist", "Sjoberg", "Berggren",
+    "Edlund", "Sundberg", "Söderström", "Forsberg", "Gunnarsson", "Hellstrom", "Jansson", "Lindström", "Malmberg", "Åkesson", "Berglund", "Dahlberg", "Stark", "Lannister",
+    "Targaryen", "Baratheon", "Greyjoy", "Tyrell", "Martell", "Bolton", "Frey", "Arryn", "Corleone", "Tattaglia", "Barzini", "Cuneo", "Stracci", "Abbas", "Ahmed", "Alam", "Ali",
+    "Hassan", "Khan", "Mahmoud", "Mansour", "Rahman", "Saeed"
+  ]
+}
